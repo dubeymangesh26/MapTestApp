@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bbe4</color>
+    <color name="colorPrimaryDark">#00bbe4</color>
+    <color name="colorAccent">#00bbe4</color>
+    <color name="colorRipple">#fff</color>
+    <color name="textcolor">#3c3c3c</color>
+    <color name="gen_black">#000000</color>
+    <color name="gen_white">#FFFFFF</color>
+    <color name="green_light">#43A047</color>
+    <color name="grey_light">#E0E0E0</color>
+    <color name="red">#E82A4B</color>
+    <color name="grey">	#808080</color>
+    <color name="shadow">#f4f7f7</color>
+    <color name="colorSatelit">#FF5252</color>
+
+
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+    <!-- Placeholder colors-->
+    <color name="stay_color">#00bcbcbc</color>
+    <color name="nav_color">#f7f6f6</color>
+    <color name="theme_green">#2dac06</color>
+    <color name="theme_orange">#e66c09</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+</resources>
